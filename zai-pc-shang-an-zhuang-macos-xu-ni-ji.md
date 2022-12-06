@@ -31,13 +31,13 @@ VMware Workstation 原生不支持安装macOS，需要使用其他程序解锁�
 
 本次解锁使用的工具为GitHub上的 unlocker:[ https://github.com/DrDonk/unlocker/releases](https://github.com/DrDonk/unlocker/releases)
 
-如果上方链接不能下载，请点击[这个链接](https://www.123pan.com/s/0pMUVv-092x)（123云盘）来下载。
+如果您不会使用Github，或上方链接不能下载，请点击[这个链接](https://www.123pan.com/s/0pMUVv-092x)（123云盘）来下载。
 
-解锁前请先关闭去任务管理器关闭VMware程序, 同时在服务中关闭所有vm开头的服务(请在解锁成功之后重新启用)
+解锁前请先去任务管理器关闭VMware程序，同时在服务中关闭所有vm开头的服务（解锁完成后请再打开）。
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption><p>关闭VM开头的服务</p></figcaption></figure>
 
 解锁压缩包之后, windows文件夹 -> 以管理员权限运行 unlock -> 任意键关闭
 

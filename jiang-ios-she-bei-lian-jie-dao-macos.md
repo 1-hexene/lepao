@@ -8,7 +8,7 @@ description: 如何用AnyGo连接你的设备
 
 ## 如果您使用的是运行在实体机上的macOS
 
-[请点击这里跳转到“连接到AnyGo](jiang-ios-she-bei-lian-jie-dao-macos.md#kai-shi-lian-jie)[”。](jiang-ios-she-bei-lian-jie-dao-macos.md#kai-shi-lian-jie)
+使用数据线将您的iOS设备连接到电脑，然后[请点击这里跳转到“连接到AnyGo](jiang-ios-she-bei-lian-jie-dao-macos.md#kai-shi-lian-jie)[”。](jiang-ios-she-bei-lian-jie-dao-macos.md#kai-shi-lian-jie)
 
 ## 如果您使用的是：VMware虚拟机
 
@@ -16,7 +16,7 @@ description: 如何用AnyGo连接你的设备
 
 ## 连接到AnyGo
 
-点击“开始”，然后使用数据线将您的iOS设备连接到电脑。
+点击“开始”，等待电脑识别您的设备。
 
 点击屏幕右下角的“下一页”，如果提示解锁屏幕则解锁屏幕，提示输入密码则在手机上输入锁屏密码，等待加载完成。
 

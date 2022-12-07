@@ -43,11 +43,19 @@ VMware Workstation 原生不支持安装macOS，需要使用其他程序解锁�
 
 解锁不成功的可以尝试另一个解锁工具: [https://github.com/paolo-projects/unlocker](https://github.com/paolo-projects/unlocker)
 
+
+
 ## 在VMware Workstation中安装macOS
 
-<mark style="color:red;">**不要下载下面这个文件！这个文件似乎不能在VMware Workstation中正常引导。**</mark>
+<mark style="color:red;">**不要下载下面这个文件！这个文件似乎不能在VMware Workstation中正常引导；未来我们会另制作一个正常的ISO文件。**</mark>
 
-~~请前往~~[~~这个链接~~](https://www.123pan.com/s/0pMUVv-892x)~~下载macOS Mojave的可引导镜像文件(Bootable ISO)。~~这个文件是由Apple Inc.官方工具生成的，没有对Apple的文件进行修改，不侵犯Apple Inc.的版权。
+~~请前往这个链接下载macOS Mojave的可引导镜像文件(Bootable ISO)。~~这个文件是由Apple Inc.官方工具生成的，没有对Apple的文件进行修改，不侵犯Apple Inc.的版权。
+
+#### 致歉
+
+这个ISO文件是笔者从可引导的U盘制作的镜像。令人感到疑惑的是，U盘可以在电脑上正常引导，而ISO文件则不能在workstation上引导，却可以在Fusion（Mac上的vmware虚拟机平台）上引导。笔者使用的是Mac和Fusion，因此并未发现这个问题。在此笔者向各位读者致歉。
+
+
 
 如果您不知道什么是`可引导镜像文件`，请查阅：[什么是macOS苹果系统引导版镜像?](https://www.loveswo.com/53.html)
 

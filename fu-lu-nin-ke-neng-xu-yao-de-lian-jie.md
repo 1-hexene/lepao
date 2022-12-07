@@ -4,7 +4,7 @@
 
 \[1] [AnyGo下载](https://xclient.lanzout.com/iPGn70hiijha)；
 
-<mark style="color:red;">**\[\*] 不要下载下面这个文件！这个文件似乎不能在VMware Workstation中正常引导。**</mark>
+<mark style="color:red;">**\[\*] 不要下载下面这个文件！这个文件似乎不能在VMware Workstation中正常引导。详见：**</mark>[<mark style="color:blue;">**致歉**</mark>](zai-pc-shang-an-zhuang-macos-xu-ni-ji.md#zhi-qian)<mark style="color:blue;">****</mark>
 
 ~~\[2]~~ [~~macOS Mojave的可引导镜像文件(Bootable ISO)~~](https://www.123pan.com/s/0pMUVv-892x)~~；~~
 

@@ -66,11 +66,11 @@
 
 此时，请您点击VMware Workstation界面下方的黄色条内的“安装Tools”按钮。
 
-如果您没有看见这个黄色条，请您VMware Workstation菜单栏中的“虚拟机”，然后点击下拉菜单中的“安装VMware Tools”。
+如果您没有看见这个黄色条，请您点击VMware Workstation菜单栏中的“虚拟机”，然后点击下拉菜单中的“安装VMware Tools”。
 
 <figure><img src="../.gitbook/assets/install-vmware-tools.PNG" alt=""><figcaption></figcaption></figure>
 
-如果出现下图提示，则您需要将macOS安装光盘弹出。
+如果出现下图提示，则您需要将macOS安装光盘卸载。
 
 ![](../.gitbook/assets/cannot-inject.PNG)
 
@@ -78,9 +78,9 @@
 
 <figure><img src="../.gitbook/assets/动画.gif" alt=""><figcaption></figcaption></figure>
 
-现在，请您再次点击“安装VMware Tools”，就可以进行安装了。
+现在，请您再次点击菜单栏中的“安装VMware Tools”，就可以进行安装了。
 
-请稍等一会，macOS内会自动弹出Tools的安装程序，如下图所示。
+请稍等一会，macOS内会自动出现Tools的安装程序文件夹，如下图所示。
 
 <figure><img src="../.gitbook/assets/install-tools.PNG" alt=""><figcaption></figcaption></figure>
 

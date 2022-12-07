@@ -4,8 +4,6 @@ description: 在VMware Workstation中
 
 # 安装macOS
 
-（还没写完）
-
 {% hint style="info" %}
 在虚拟机内，macOS的性能有一定的折损。
 

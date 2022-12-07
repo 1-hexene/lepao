@@ -33,47 +33,41 @@ VMware Workstation Pro 16安装包点击[这个链接](https://download3.vmware.
 
 安装过程基本就是一直下一步，最后结束的时候输入密钥。
 
-![](<.gitbook/assets/diy install.png>)  这页不需要额外设置。
+![](<.gitbook/assets/diy install.png>)
 
-![](.gitbook/assets/exp.png)   建议取消勾选两个复选框（分别点击两个带对勾的方框）。
+这页不需要额外设置。
 
-![](<.gitbook/assets/quick (1).png>)  这页不需要额外设置。
+![](.gitbook/assets/exp.png)
 
-![](.gitbook/assets/preped.png)  现在您可以点击“安装”开始安装VMware Workstation。
+&#x20;建议取消勾选两个复选框（分别点击两个带对勾的方框）。
 
-![](.gitbook/assets/install.png)  等待安装进度完成。
+![](<.gitbook/assets/quick (1).png>)
 
-![](.gitbook/assets/lisence.png)  安装进度完成后，点击“许可证”来输入许可证。
+这页不需要额外设置。
 
-因版权等问题，关于安装包、密钥的其他事项请查阅[这个链接](https://www.ssymon.com/archives/vmware-download-key)。
+![](.gitbook/assets/preped.png)
 
-盗版软件是一种<mark style="color:red;">**非法行为**</mark>。
+现在您可以点击“安装”开始安装VMware Workstation。
 
-**《中华人民共和国刑法修正案（十一）》**规定：
+![](.gitbook/assets/install.png)
 
-**以营利为目的**，有下列侵犯著作权或者与著作权有关的权利的情形之一，违法所得数额较大或者有其他严重情节的，处三年以下有期徒刑，并处或者单处罚金；违法所得数额巨大或者有其他特别严重情节的，处三年以上十年以下有期徒刑，并处罚金：
+等待安装进度完成。
 
-（一）未经著作权人许可，复制发行、通过信息网络向公众传播其文字作品、音乐、美术、视听作品、计算机软件及法律、行政法规规定的其他作品的；
+![](.gitbook/assets/lisence.png)
 
-（二）出版他人享有专有出版权的图书的；
+安装进度完成后，点击“许可证”来输入许可证。因版权等问题，关于安装包、密钥的其他事项请查阅[这个链接](https://www.ssymon.com/archives/vmware-download-key)。
 
-（三）未经录音录像制作者许可，复制发行、通过信息网络向公众传播其制作的录音录像的；
-
-（四）未经表演者许可，复制发行录有其表演的录音录像制品，或者通过信息网络向公众传播其表演的；
-
-&#x20;（五）制作、出售假冒他人署名的美术作品的；
-
-（六）未经著作权人或者与著作权有关的权利人许可，故意避开或者破坏权利人为其作品、录音录像制品等采取的保护著作权或者与著作权有关的权利的技术措施的。
-
-如果您
-
-值得一提的是，VMware Inc. 对于个人用户的盗版行为持睁一只眼闭一只眼的态度。
+{% hint style="info" %}
+盗版软件是一种**非法行为。**但值得一提的是，VMware Inc. 对于个人用户的盗版行为持睁一只眼闭一只眼的态度。如果您担心在学习、研究或欣赏VMware软件时带来的潜在盗版问题，您可以前往VMware官方网站下载**VMware Player**。VMware Player是一款免费软件。
+{% endhint %}
 
 ![](<.gitbook/assets/input lis.png>)
 
+输入许可证后，点击“输入”，即可用许可证注册Workstation。
+
 ![](.gitbook/assets/success.png)
 
-
+点击“完成”按钮即可完成VMware Workstation的安装进程。
 
 ## 解锁安装macOS
 

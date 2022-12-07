@@ -45,7 +45,9 @@ VMware Workstation 原生不支持安装macOS，需要使用其他程序解锁�
 
 ## 在VMware Workstation中安装macOS
 
-请前往[这个链接](https://www.123pan.com/s/0pMUVv-892x)下载macOS Mojave的可引导镜像文件(Bootable ISO)。这个文件是由Apple Inc.官方工具生成的，没有对Apple的文件进行修改，不侵犯Apple Inc.的版权。
+<mark style="color:red;">**不要下载下面这个文件！这个文件似乎不能在VMware Workstation中正常引导。**</mark>
+
+~~请前往~~[~~这个链接~~](https://www.123pan.com/s/0pMUVv-892x)~~下载macOS Mojave的可引导镜像文件(Bootable ISO)。~~这个文件是由Apple Inc.官方工具生成的，没有对Apple的文件进行修改，不侵犯Apple Inc.的版权。
 
 如果您不知道什么是`可引导镜像文件`，请查阅：[什么是macOS苹果系统引导版镜像?](https://www.loveswo.com/53.html)
 

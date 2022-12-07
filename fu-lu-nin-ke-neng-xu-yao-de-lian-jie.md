@@ -4,7 +4,9 @@
 
 \[1] [AnyGo下载](https://xclient.lanzout.com/iPGn70hiijha)；
 
-\[2] [macOS Mojave的可引导镜像文件(Bootable ISO)](https://www.123pan.com/s/0pMUVv-892x)；
+<mark style="color:red;">**\[\*] 不要下载下面这个文件！这个文件似乎不能在VMware Workstation中正常引导。**</mark>
+
+~~\[2]~~ [~~macOS Mojave的可引导镜像文件(Bootable ISO)~~](https://www.123pan.com/s/0pMUVv-892x)~~；~~
 
 \[3] [macOS unlocker，适用于VMware Workstation](https://www.123pan.com/s/0pMUVv-092x);
 

@@ -18,7 +18,7 @@ description: 安卓审查很严，没办法。步道乐跑iOS版的审查几乎�
 
 ### 如果您没有运行macOS的电脑
 
-如果您拥有一台内置了x86架构处理器的、运行Windows的PC，您可以参照 [zai-pc-shang-an-zhuang-macos-xu-ni-ji.md](zai-pc-shang-an-zhuang-macos-xu-ni-ji.md "mention")
+如果您拥有一台内置了x86架构处理器的、运行Windows的PC，您可以参照 [zai-pc-shang-an-zhuang-macos-xu-ni-ji](zai-pc-shang-an-zhuang-macos-xu-ni-ji/ "mention")
 
 如果您没有上述电脑，您可以洗洗睡了，或者找人帮您刷。
 

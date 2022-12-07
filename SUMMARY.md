@@ -7,6 +7,7 @@
   * [解锁安装macOS](zai-pc-shang-an-zhuang-macos-xu-ni-ji/zai-pc-shang-an-zhuang-macos-xu-ni-ji-1.md)
   * [配置macOS的安装环境](zai-pc-shang-an-zhuang-macos-xu-ni-ji/zai-pc-shang-an-zhuang-macos-xu-ni-ji-2.md)
   * [安装macOS](zai-pc-shang-an-zhuang-macos-xu-ni-ji/an-zhuang-macos.md)
+  * [macOS的首次使用设置](zai-pc-shang-an-zhuang-macos-xu-ni-ji/macos-de-shou-ci-shi-yong-she-zhi.md)
 * [在macOS上安装AnyGo](zai-macos-shang-an-zhuang-anygo.md)
 * [将iOS设备连接到macOS](jiang-ios-she-bei-lian-jie-dao-macos.md)
 * [模拟位置和路径](mo-ni-wei-zhi-he-lu-jing.md)

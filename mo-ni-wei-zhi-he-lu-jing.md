@@ -20,14 +20,16 @@ description: 如何用AnyGo控制你的设备
 
 <figure><img src=".gitbook/assets/截屏2022-12-06 04.02.59.png" alt=""><figcaption><p>正在模拟跑步的界面</p></figcaption></figure>
 
-> ### <mark style="color:red;">如果您发现您设备上的位置似乎没有改变：</mark>
->
-> 请[检查您设备的iOS版本](https://support.apple.com/zh-cn/HT201685)是否过低。由于AnyGo采用的是iOS开发者接口，一个AnyGo版本会对应特定范围内的iOS版本，对于其他的iOS版本，这个/些接口可能不起作用。
->
-> 您可以尝试：
->
-> * [更新您的iOS版本](huan-jing-da-jian.md#ru-guo-nin-de-ios-she-bei-ban-ben-guo-di-bu-neng-deng-lu-bu-dao-le-pao)，或
-> * 从[这个链接](https://xclient.lanzoui.com/ioZGYucjzcd)下载一个旧版的AnyGo（版本5.0.2）。
+{% hint style="danger" %}
+### <mark style="color:red;">如果您发现您设备上的位置似乎没有改变：</mark>
+
+请[检查您设备的iOS版本](https://support.apple.com/zh-cn/HT201685)是否过低。由于AnyGo采用的是iOS开发者接口，一个AnyGo版本会对应特定范围内的iOS版本，对于其他的iOS版本，这个/些接口可能不起作用。
+
+您可以尝试：
+
+* [更新您的iOS版本](huan-jing-da-jian.md#ru-guo-nin-de-ios-she-bei-ban-ben-guo-di-bu-neng-deng-lu-bu-dao-le-pao)，或
+* 从[这个链接](https://xclient.lanzoui.com/ioZGYucjzcd)下载一个旧版的AnyGo（版本5.0.2）。
+{% endhint %}
 
 
 

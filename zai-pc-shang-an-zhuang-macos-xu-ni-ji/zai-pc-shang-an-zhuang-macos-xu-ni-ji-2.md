@@ -1,8 +1,9 @@
 ---
+description: 在VMware Workstation中
 coverY: 0
 ---
 
-# 在VMware Workstation中安装macOS
+# 配置macOS的安装环境
 
 请前往[这个链接](https://www.123pan.com/s/0pMUVv-i92x)下载macOS Mojave的可引导镜像文件(Bootable ISO)。这个文件是由Apple Inc.官方工具生成的，没有对Apple的文件进行修改，不侵犯Apple Inc.的版权。
 
@@ -82,6 +83,32 @@ macOS对内存需求较高，建议您为虚拟机设置大于4GB的内存（614
 
 <figure><img src="../.gitbook/assets/OPEN-VM-PATH.png" alt=""><figcaption></figcaption></figure>
 
-您会看到如下文件夹：
+您会看到如下文件夹。
+
+右键点击文件夹中的“.vmx”格式的文件，滑到菜单中的“打开方式”，点击“选择其他应用”。
+
+如果您没有看见文件扩展名vmx，请您参阅：[如何显示出文件的扩展名？](https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E5%87%BA/a16fb2a5-5d0c-42d7-90bc-3176cc055a5f)
+
+<figure><img src="../.gitbook/assets/OPEN-VMX.png" alt=""><figcaption></figcaption></figure>
+
+此时您会看到下图所示的窗口。请您点击“更多应用”。
+
+![](../.gitbook/assets/MORE-APP.png)
+
+此时列表展开。向下滚动列表，点击“记事本”，然后点击“确定”。
+
+![](../.gitbook/assets/OPEN-WITH-NOTEPAD.png)
+
+将打开的文档滚动到最后一行，添加如下文字：
+
+`smc.version = "0"`
+
+如图所示。然后保存文件，关闭文件。
+
+<figure><img src="../.gitbook/assets/add-line-in-vmx.png" alt=""><figcaption></figcaption></figure>
+
+现在您应该回到VMware Workstation的界面。点击“开启此虚拟机”，macOS的安装镜像即将开始引导。
+
+如果您没有看到这个界面，请您点击左边栏中的虚拟机名称。
 
 <figure><img src="../.gitbook/assets/START-VM.png" alt=""><figcaption></figcaption></figure>

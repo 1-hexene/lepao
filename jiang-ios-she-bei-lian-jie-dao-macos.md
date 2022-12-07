@@ -12,7 +12,21 @@ description: 如何用AnyGo连接你的设备
 
 ## 如果您使用的是：VMware虚拟机
 
-（还没写）
+使用数据线将您的iOS设备连接到电脑。此时VMware Workstation会询问您将设备连接到哪一台设备。此时，请您先点击“连接到虚拟机”，再点击您的虚拟机名称。
+
+<figure><img src=".gitbook/assets/new-usb.PNG" alt=""><figcaption></figcaption></figure>
+
+如果您没有看到这个弹窗：
+
+请您将鼠标移动到VMware Workstation 右下角的状态栏。如果您的手机已经正确连接到您的PC，您会看到一个灰色的矩形。
+
+如图所示：
+
+![](.gitbook/assets/iphone-icon.PNG)
+
+点击这个图标，您会看到如下图所示的弹窗。点击“连接（断开与 主机 的连接）”，即可将iPhone连接到虚拟机内的macOS。
+
+![](.gitbook/assets/conect-iphone.PNG)
 
 ## 连接到AnyGo
 

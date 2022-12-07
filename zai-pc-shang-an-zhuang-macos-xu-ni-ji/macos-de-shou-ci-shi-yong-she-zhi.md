@@ -82,3 +82,12 @@
 
 请稍等一会，macOS内会自动弹出Tools的安装程序，如下图所示。
 
+<figure><img src="../.gitbook/assets/install-tools.PNG" alt=""><figcaption></figcaption></figure>
+
+双击“安装 VMware Tools”，即可开始安装Tools。
+
+期间若提示输入密码，则请您输入密码。提示“系统扩展被阻止”时，请您在“系统偏好设置”中点击“允许”。
+
+<figure><img src="../.gitbook/assets/tools.gif" alt=""><figcaption></figcaption></figure>
+
+安装完成后，虚拟机将重新启动，VMware Tools安装成功。

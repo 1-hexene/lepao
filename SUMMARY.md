@@ -1,6 +1,7 @@
 # Table of contents
 
 * [写在前面](README.md)
+* [免责声明](<README (1).md>)
 * [环境搭建](huan-jing-da-jian.md)
 * [在PC上安装macOS虚拟机](zai-pc-shang-an-zhuang-macos-xu-ni-ji/README.md)
   * [安装VMware Workstation](zai-pc-shang-an-zhuang-macos-xu-ni-ji/zai-pc-shang-an-zhuang-macos-xu-ni-ji.md)

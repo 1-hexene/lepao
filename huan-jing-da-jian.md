@@ -8,6 +8,10 @@ description: 安卓审查很严，没办法。步道乐跑iOS版的审查几乎�
 
 如果您不知道上面这句话的含义，请点击上方有超链接的文本。
 
+{% hint style="info" %}
+请注意，无论是基于Intel系统的mac电脑，还是基于Apple Silicon M1、M2家族SoC的mac电脑，抑或是未经Apple授权运行的macOS电脑，都是可接受的。
+{% endhint %}
+
 ### 如果您没有运行[iOS](https://baike.baidu.com/item/iOS/45705)或[iPadOS](https://baike.baidu.com/item/ipados)的移动设备
 
 您可以洗洗睡了，或者找人帮您刷。
